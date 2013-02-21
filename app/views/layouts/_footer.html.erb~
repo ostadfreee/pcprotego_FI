@@ -3,20 +3,25 @@
 <div id="footer-content" class="container">
 	<div id="footer-bg">
 		<div id="column1">
-			<h2>Who we are ?</h2>
-			<p>PC Protego is an onsite, and support company which provide technical support services. We attempts to provide a <strong> quick, friendly </strong> service, and making an opportunity for small businesses to be able to outsource their IT-needs.Besides, our support plans offer to customers not only a peace of mind when things go wrong but also make possible <strong> "NOT to pay for every computer every year" </strong>.<br />
+			<h2>Keitä olemme?</h2>
+			<p>PC Protego on tukiyritys, joka tarjoaa teknisiä tietokonepalveluja asiakkaan tiloissa. Palvelumme on <strong>nopeaa, tehokasta ja ystävällistä</strong>. Tukisuunnitelmamme tuovat sinulle mielenrauhaa, jos asiat menevät pieleen, ja mahdollisuuden välttää<strong> tietokonekohtaiset vuosimaksut</strong>.
+Palvelumme korkean laadun varmistamme käyttämällä <strong>asianmukaisia työkaluja ja sovelluksia.</strong><br />
 			</p>
 		</div>
 		<div id="column2">
-			<h2>Why choose us ?</h2>
-			<p><strong> No Fix- No charge </strong> means we will not charge you if we can not provide you with a solution to your problem.<br> <strong> Fixed rate</strong> means no matter how long it takes for us to fix your problem you pay a fixed amount.<br>
-			<strong> Pay as you go plans</strong> means support plan give you chance not to pay for every computer every year.<br>
-			<strong> work guaranteed for 30 days </strong> means if there is a problem with what we did, we solve it for free within 30 days.<br />
-			</p>
-		</div>
+			<h2>Miksi valita meidät?</h2>
+			<strong>Kiinteä hinta -</strong> Maksat kiinteän hinnan riippumatta siitä, kuinka kauan tehtävän suorittaminen kestää.<br>
+					 <strong>Takuu työlle -</strong> Tietokoneiden korjaustoimenpiteille tarjoamme 30 päivän takuun: jos ongelma jostakin syystä toistuu 30 päivän kuluessa, korjaamme sen veloituksetta.
+					 
+					 <br><strong> Maksat, jos pystymme korjaamaan tietokoneesi -</strong> Jos emme pysty korjaamaan ongelmaa, emme veloita sinulta mitään.<br>
+					<strong>Maksat, kun tietokoneesi on korjattu  -</strong>. Sinun <strong> ei tarvitse </strong> maksaa vuosittaista huoltomaksua jokaisesta tietokoneestasi. Riittää, kun maksat tietokoneen korjaamisesta <strong>kertamaksun</strong>.
+					</div>
 		<div id="column3">
-			<h2>Contact Us </h2>
-			<p><strong>We want to hear from you.</strong> Please contact us if you have any questions regarding to our services.
+			<h2>Yhteystiedot </h2>
+			<p>Haluamme kuulla sinusta. Ota yhteyttä, jos sinulla on kysyttävää palveluistamme. Tavoitat meidät osoitteesta: <br>
+
+Y-tunnus: 2521348-3  <br>
+Palvelemme: joka päivä klo 9–18 
 			</p>
 		</div>
 		

@@ -1,7 +1,9 @@
 <% provide(:title, 'Data') %>
 </div>
 <div id="footer">
-	<p><strong> PC Protego's data services </strong> offer you data recovery, securely remove data and provide data backup.<br> We offer you a fixed price of <strong> 50 Euros </strong> for <strong> securely remove data</strong> and <strong> data backup</strong>. To recover your data we charge a price according to <strong> the amount of data </strong> needed to be recovered.<br> You should have a <strong> spare hard disk </strong> at your premises for us to transfer the recovered contents. </p> 
+	<p><strong>PC Protegon datapalvelut</strong> tarkoittavat tietojen palautusta, turvallista poistamista ja varmuuskopiointia.
+Suoritamme tietojen <strong>turvallisen poiston</strong> ja <strong> varmuuskopioinnin</strong> kiinteään <strong>50 euron</strong> hintaan. Tietojen palautuksesta veloitamme palautettavien<strong> tietojen määrän</strong> mukaan.
+Palautettavien tietojen siirtoa varten saatavilla on oltava<strong> ylimääräinen kiintolevy.</strong> </p> 
 	
 	</p>
  </div>
@@ -11,8 +13,8 @@
 	
 				<div class="arrow"></div>
 				<div class="content">
-					<h3>Data Removal</h3>
-					<p> We will remove your data from a computer to another one or to DVD or CD. </p>
+					<h3>Tietojen poisto</h3>
+					<p> Poistamme tiedot tietokoneeltasi ja siirrämme ne toiselle tietokoneelle tai DVD-/CD-levylle. </p>
 					<br>
 					<br>
 					
@@ -25,8 +27,8 @@
 	
 				<div class="arrow"></div>
 				<div class="content">
-					 <h3>Data Recovery</h3>
-					 <p> We Recover important information by using right tools and equipments if accidentally deleted.</p>
+					 <h3>Tietojen palautus</h3>
+					 <p> Palautamme vahingossa poistetut tärkeät tiedot käyttämällä asianmukaisia työkaluja ja laitteita.</p>
 					 <br>
 					 <br>
 					 
@@ -39,10 +41,10 @@
 
 				<div class="arrow"></div>
 				<div class="content">
-					<h3>Data Backup</h3>
-					<p>Set up an automated backup schedule of your data to an external drive or a cloud. </p>
+					<h3>Tietojen varmuuskopiointi</h3>
+					<p>Määritämme aikataulun tietojen automaattiselle varmuuskopioinnille ulkoiseen asemaan tai pilvipalveluun.</p>
 					<br>
-					<br>
+					
 					
 				</div>
 				</div>
